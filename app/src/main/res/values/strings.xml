@@ -2,4 +2,5 @@
     <string name="app_name">Basics Codelab</string>
     <string name="show_less">Show less</string>
     <string name="show_more">Show more</string>
+    <string name="title_activity_main2">MainActivity2</string>
 </resources>

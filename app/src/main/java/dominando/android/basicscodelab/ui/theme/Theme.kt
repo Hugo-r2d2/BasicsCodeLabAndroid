@@ -21,7 +21,7 @@ private val DarkColorScheme = darkColorScheme(
 
 private val LightColorScheme = lightColorScheme(
     surface = Blue,
-    onSurface = Color.Red,
+    onSurface = Color.White,
     primary = LightBlue,
     onPrimary = Navy
 )

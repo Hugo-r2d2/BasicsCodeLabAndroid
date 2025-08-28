@@ -137,7 +137,7 @@ private fun CardContent(name: String) {
             )
             if (expanded) {
                 Text(
-                    text = ("Composem ipsum color sit lazy, " +
+                    text = ("Compose ipsum color sit lazy, " +
                             "padding theme elit, sed do bouncy. ").repeat(4),
                 )
             }
